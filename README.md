@@ -75,7 +75,7 @@ A list of Ophthalmology imaging datasets
 [Paper](https://pubmed.ncbi.nlm.nih.gov/28217714/) [Dataset](https://personalpages.manchester.ac.uk/staff/niall.p.mcloughlin/)
 
 **DRIVE**\
-* retinal vessel segmentation; *\
+*retinal vessel segmentation*\
 [Paper](Ridge-based vessel segmentation in color images of the retina) [Dataset](https://paperswithcode.com/dataset/drive)
 
 **HRF**\
