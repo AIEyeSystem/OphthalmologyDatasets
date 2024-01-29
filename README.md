@@ -74,10 +74,25 @@ A list of Ophthalmology imaging datasets
 *segmentation algorithms; four subgroups*\
 [Paper](https://pubmed.ncbi.nlm.nih.gov/28217714/) [Dataset](https://personalpages.manchester.ac.uk/staff/niall.p.mcloughlin/)
 
+**DRIVE**\
+* retinal vessel segmentation; *\
+[Paper](Ridge-based vessel segmentation in color images of the retina) [Dataset](https://paperswithcode.com/dataset/drive)
 
+**HRF**\
+*vessel segmentation of fundus image*\
+[Paper](https://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2013/Budai13-RVS.pdf) [Dataset](https://www5.cs.fau.de/research/data/fundus-images/)
 
+**LES-AV**\
+*vessel annotations and labels for arteries and veins*\
+[Paper]("Towards a glaucoma risk index based on simulated hemodynamics from fundus images") [Github](https://github.com/ignaciorlando/glaucoma-hemodynamics)
 
+**RVD_VIDEO**\
+*first video-based retinal dataset by employing handheld devices for data acquisition; *\
+[Paper][(https://arxiv.org/abs/2307.06577) [Dataset](https://paperswithcode.com/task/retinal-vessel-segmentation/codeless)
 
+**STARE**\
+*retinal vessel segmentation; color fundus images*\
+[Paper](https://arxiv.org/abs/2009.12053) [Dataset](https://paperswithcode.com/dataset/stare)
 
 
 
