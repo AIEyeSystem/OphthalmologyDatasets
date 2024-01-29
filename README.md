@@ -32,20 +32,77 @@ A list of Ophthalmology imaging datasets
 - [Papers](#papers)
   - [Anomaly Detection](#anomaly-detection)
 
-  
-## Survey Papers
-
-**A narrative review of retinal vascular parameters and the applications (Part I): Measuring methods** \
-[ 2023] \
-[[Paper](https://journals.lww.com/brci/fulltext/2023/09030/a_narrative_review_of_retinal_vascular_parameters.1.aspx?context=latestarticles)]
 
 
+## Ophthalmology_dataset
 
-## Papers
 
-### Anomaly Detection
+### Mult_Diseases
 
-**QUARTZ: Quantitative Analysis of Retinal Vessel Topology and size – An automated system for quantification of retinal vessels morphology** \
-*Fraz, M. M., Welikala, R. A., Rudnicka, A. R., Owen, C. G., Strachan, D. P., & Barman, S. A.* \
-[2015]<br>
-[[Paper]([https://arxiv.org/abs/2310.08654](https://www.sciencedirect.com/science/article/pii/S0957417415003504?casa_token=L-i62yUQsjAAAAAA:tsxkuUVYSciNdcPsK_KfxfZHDTfZmdVV0349NBn1091lBiH-DuKYw_h9X6CykheXXx8shXCXFw)https://www.sciencedirect.com/science/article/pii/S0957417415003504?casa_token=L-i62yUQsjAAAAAA:tsxkuUVYSciNdcPsK_KfxfZHDTfZmdVV0349NBn1091lBiH-DuKYw_h9X6CykheXXx8shXCXFw)] [[Github](https://github.com/xxx)]
+**Fundus_image**\
+*26 files corresponding to 26 lesion types*\
+[Github](https://github.com/rymshasaeed/Automated-Eye-Cancer-Detection) [Dataset](https://figshare.com/articles/figure/fundus-dataset_zip/16986166)
+
+
+
+### AMD
+
+**iChallenge: AMD/Non_AMD and DF_Annotation(disc_fovea)** \
+*AMD:89, Non-AMD:311, DF:44* \
+[2021]<br>
+[[Link](https://aistudio.baidu.com/aistudio/datasetdetail/88462)]
+
+
+
+
+### Segmentation
+
+**Fundus_AV_seg**\
+[2022]
+[Paper](https://ravirdataset.github.io/data/) (https://arxiv.org/abs/2203.14928)
+
+**Fundus_AV_WIDE**\
+*This dataset consists of 30 wide-field of color images and their annotated features for artery-vein classification*\
+[2015]
+[Paper](https://pubmed.ncbi.nlm.nih.gov/26068204/) (https://people.duke.edu/~sf59/Estrada_TMI_2015_dataset.htm)
+
+**Chase-DB**\
+*A dataset for retinal vessel segmentation which contains 28 color retina images with the size of 999×960 pixels. Each image is annotated by two independent human experts.*\
+[Paper](https://ieeexplore.ieee.org/document/6224174) [Dataset](https://blogs.kingston.ac.uk/retinal/chasedb1/) [Related_work](https://paperswithcode.com/dataset/chase-db1)
+
+**DR-HAGIS**\
+*segmentation algorithms; four subgroups*\
+[Paper](https://pubmed.ncbi.nlm.nih.gov/28217714/) [Dataset](https://personalpages.manchester.ac.uk/staff/niall.p.mcloughlin/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
