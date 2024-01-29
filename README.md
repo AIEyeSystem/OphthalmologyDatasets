@@ -87,7 +87,7 @@ A list of Ophthalmology imaging datasets
 [Paper]("Towards a glaucoma risk index based on simulated hemodynamics from fundus images") [Github](https://github.com/ignaciorlando/glaucoma-hemodynamics)
 
 **RVD_VIDEO**\
-*first video-based retinal dataset by employing handheld devices for data acquisition; *\
+*first video-based retinal dataset by employing handheld devices for data acquisition*\
 [Paper][(https://arxiv.org/abs/2307.06577) [Dataset](https://paperswithcode.com/task/retinal-vessel-segmentation/codeless)
 
 **STARE**\
