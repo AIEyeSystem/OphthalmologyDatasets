@@ -78,6 +78,24 @@ A list of Ophthalmology imaging datasets
 *Grading glaucoma,Segmentation of optic disc and cup,Localization of fovea macula*\
 [Paper](https://arxiv.org/abs/2202.06511) [Dataset](https://gamma.grand-challenge.org/)
 
+**BEH (Bangladesh Eye Hospital) Dataset**\
+*normal:463;glaucoma:171*\
+[Paper](https://www.researchgate.net/publication/357382043_Deep_Learning-Based_Glaucoma_Detection_With_Cropped_Optic_Cup_and_Disc_and_Blood_Vessel_Segmentation) [Github](https://github.com/mirtanvirislam/Deep-Learning-Based-Glaucoma-Detection-with-Cropped-Optic-Cup-and-Disc-and-Blood-Vessel-Segmentation/tree/master/Dataset)
+
+**PAPILA**\
+*Dataset with fundus images and clinical data of the same patient for glaucoma assessment*\
+[Paper](https://www.nature.com/articles/s41597-022-01388-1) [Dataset](https://figshare.com/articles/dataset/PAPILA/14798004/1)
+
+****\
+**\
+[]() []()
+
+
+
+
+
+
+
 
 
 
