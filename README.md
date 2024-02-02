@@ -86,9 +86,21 @@ A list of Ophthalmology imaging datasets
 *Dataset with fundus images and clinical data of the same patient for glaucoma assessment*\
 [Paper](https://www.nature.com/articles/s41597-022-01388-1) [Dataset](https://figshare.com/articles/dataset/PAPILA/14798004/1)
 
-****\
-**\
-[]() []()
+**Fundus-doFE**\
+*adopt the Domain Knowledge PoolMpoolto learn and memorizethe multi-source domain prior knowledge, enrich the image semantic featurehs*\
+[Paper](https://arxiv.org/pdf/2010.06208.pdf) [Github](https://github.com/emma-sjwang/Dofe)
+
+
+### Diabetic Retinopathy
+
+**DRSeg_TJDR**\
+*High-Quality Diabetic Retinopathy Pixel-Level Annotation Dataset*\
+[Paper](https://arxiv.org/abs/2312.15389) [Github](https://github.com/NekoPii/TJDR)
+
+**MESSIDOR-2**\
+*how does the prediction model performs on test dataset that is from a different source; Diabetic Retinopathy Classification from Fundus Images*\
+[Paper](https://ieeexplore.ieee.org/document/9918681) [Github](https://github.com/yeansam/APTOS2019_Messidor-2/blob/master/README.md)
+
 
 
 
