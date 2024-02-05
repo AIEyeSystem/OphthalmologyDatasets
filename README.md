@@ -105,11 +105,17 @@ A list of Ophthalmology imaging datasets
 ### Myopia
 
 **CMU_fundus**\
-*Capital Medical University, Beijing*\
+*Capital Medical University,Beijing*\
 
-****\
-**\
-[]() []()
+**Paddle**\
+*iChallenge dataset,Baidu*\
+[Dataset](https://aistudio.baidu.com/aistudio/datasetdetail/23828)
+
+**PALM**\
+*pathlogical myopia challenge;*\
+[Homepage](https://palm.grand-challenge.org/) [Dataset](https://ieee-dataport.org/documents/palm-pathologic-myopia-challenge)
+
+
 
 
 
@@ -177,8 +183,13 @@ A list of Ophthalmology imaging datasets
 [Paper](https://arxiv.org/abs/2203.03631) [Github](https://github.com/lkpengcs/RVms)
 
 
+**Lesion**\
+*retinal lesions segmentation*\
+[Paper](https://arxiv.org/abs/1912.11619) [Github](https://github.com/WeiQijie/retinal-lesions)
 
-
+**ID**\
+*retinal recognition*\
+[Dataset](https://data.mendeley.com/datasets/tjw3zwntv6/2)
 
 
 
