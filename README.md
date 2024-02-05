@@ -189,6 +189,12 @@ A list of Ophthalmology imaging datasets
 *retinal recognition*\
 [Dataset](https://data.mendeley.com/datasets/tjw3zwntv6/2)
 
+**IOSTAR**\
+*retinal vessel segmentation*\
+[Paper](https://ieeexplore.ieee.org/abstract/document/7493241) [Dataset](https://www.idiap.ch/software/bob/docs/bob/bob.db.iostar/stable/)
+
+
+
 
 ###  iOCT
 
@@ -208,6 +214,19 @@ A list of Ophthalmology imaging datasets
 [Paper](https://link.springer.com/chapter/10.1007/978-3-030-59722-1_60) [Github](https://github.com/XiaofeiWang2018/DeepGF)
 
 
+### Register
+
+**FIRE**\
+*fundus images*\
+[Paper](https://www.maio-journal.com/index.php/MAIO/article/view/42) [Dataset](https://projects.ics.forth.gr/cvrl/fire/)
+
+**VARPA_r2**\
+*retinal images*\
+[Paper](https://link.springer.com/content/pdf/10.1155/2009/235746.pdf) [Dataset](http://www.varpa.es/research/biometrics.html)
+
+**IOSTAR**\
+*retinal vessel segmentation*\
+[Paper](https://ieeexplore.ieee.org/abstract/document/7493241) [Dataset](https://www.idiap.ch/software/bob/docs/bob/bob.db.iostar/stable/)
 
 
 
