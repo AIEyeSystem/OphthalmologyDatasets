@@ -193,6 +193,10 @@ A list of Ophthalmology imaging datasets
 *retinal vessel segmentation*\
 [Paper](https://ieeexplore.ieee.org/abstract/document/7493241) [Dataset](https://www.idiap.ch/software/bob/docs/bob/bob.db.iostar/stable/)
 
+**ROSE**\
+*Retinal OCTA SEgmentation*\
+[Paper](https://arxiv.org/abs/2007.05201) [Dataset](https://paperswithcode.com/dataset/rose)
+
 
 
 
@@ -231,11 +235,13 @@ A list of Ophthalmology imaging datasets
 
 ###  OCTA
 
-****\
-**\
-[]() []()
+**OCTA-500**\
+*retinal imaging modality that allows a micron-level resolution to present the three-dimensional structure of the retinal vascular*\
+[Paper](https://ieeexplore.ieee.org/document/9085991) [Dataset](https://ieee-dataport.org/open-access/octa-500)
 
-
+**ROSE**\
+*Retinal OCTA SEgmentation*\
+[Paper](https://arxiv.org/abs/2007.05201) [Dataset](https://paperswithcode.com/dataset/rose)
 
 
 
