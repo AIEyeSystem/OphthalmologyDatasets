@@ -284,10 +284,13 @@ A list of Ophthalmology imaging datasets
 *CNV, DME, DRUSEN, and NORMAL*\
 [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6913386/) [Dataset](https://data.mendeley.com/datasets/rscbjbr9sj/1)
 
+**OCTDL**\
+*500 high-resolution images categorized into different pathological conditions*\
+[Paper](https://arxiv.org/abs/2312.08255) [Dataset](https://paperswithcode.com/dataset/octid)
+
 ****\
 **\
 []() []()
-
 
 
 
