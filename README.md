@@ -243,6 +243,15 @@ A list of Ophthalmology imaging datasets
 *Retinal OCTA SEgmentation*\
 [Paper](https://arxiv.org/abs/2007.05201) [Dataset](https://paperswithcode.com/dataset/rose)
 
+**quality_assessment**\
+*quality assessment and FAZ segmantation*\
+[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4073651) [Github](https://github.com/shanzha09/COIPS)
+
+
+###  OCT
+
+
+
 
 
 
