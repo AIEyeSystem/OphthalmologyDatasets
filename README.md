@@ -250,9 +250,43 @@ A list of Ophthalmology imaging datasets
 
 ###  OCT
 
+**archive**\
+*heiderlberg_OCT,Rabbani_2015,spie_OCT*\
+[Dataset](https://www.kaggle.com/datasets/kmader/eye-oct-datasets)
 
+**2015_BOE_Chiu2**\
+*layer segmentation*\
+[Paper](https://opg.optica.org/boe/fulltext.cfm?uri=boe-6-4-1172&id=312754) [Dataset](https://people.duke.edu/~sf59/Chiu_BOE_2014_dataset.htm)
 
+**octlayerdataverse_files**\
+*different retinal OCT images with different pathological conditions*\
+[Paper](https://arxiv.org/abs/1812.07056) [Dataset](https://borealisdata.ca/dataverse/OCTID)
 
+**OCTIRD**\
+[Paper](https://arxiv.org/abs/1812.07056) [Dataset](https://www.openicpsr.org/openicpsr/project/108503/version/V1/view?path=/openicpsr/108503/fcr:versions/V1&type=project)
+
+**8kt969dhx6-1**\
+*more than 16,000 retinal OCT B-scans from 441 cases (Normal: 120, Drusen: 160, CNV: 161)*\
+[Paper](https://paperswithcode.com/dataset/labeled-retinal-optical-coherence-tomography) [Dataset](https://data.mendeley.com/datasets/8kt969dhx6/1)
+
+**2014_BOE_Srinivasan**\
+[Paper](https://ieeexplore.ieee.org/document/9190742) [Github](https://github.com/SharifAmit/Robust_Joint_Attention?tab=readme-ov-file)
+
+**Data on OCT and Fundus Images**\
+*50 OCT and Fundus images  which included health and glaucomatous images*\
+[Paper](https://pubmed.ncbi.nlm.nih.gov/32181304/) [Dataset](https://data.mendeley.com/datasets/2rnnz5nz74/2)
+
+**OCT_Manual_Delineations-2018_June_29**\
+*14 healthy controls (HC) and 21 patients with multiple sclerosis (MS)*\
+[Paper](https://www.data-in-brief.com/article/S2352-3409(18)31613-5/fulltext) [Dataset](https://iacl.ece.jhu.edu/index.php?title=Main_Page)
+
+**OCT2017.tar**\
+*CNV, DME, DRUSEN, and NORMAL*\
+[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6913386/) [Dataset](https://data.mendeley.com/datasets/rscbjbr9sj/1)
+
+****\
+**\
+[]() []()
 
 
 
