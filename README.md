@@ -288,9 +288,13 @@ A list of Ophthalmology imaging datasets
 *500 high-resolution images categorized into different pathological conditions*\
 [Paper](https://arxiv.org/abs/2312.08255) [Dataset](https://paperswithcode.com/dataset/octid)
 
-****\
-**\
-[]() []()
+**THOCT1800**\
+*1800 preprocessed retinal SD-OCT B-scans (600 AMD, 600 DME, and 600 NOR)*\
+[Github](https://github.com/SJD095/OCT-Segmentation)
+
+**ZhangLabData**\
+*chest xray data, plus for optical coherence tomography (OCT) images*\
+[Paper](https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5) [Github](https://github.com/coyotespike/zhanglab-chest-xrays)
 
 
 
