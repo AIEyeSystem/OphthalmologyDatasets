@@ -94,6 +94,13 @@ A list of Ophthalmology imaging datasets
 *adopt the Domain Knowledge PoolMpoolto learn and memorizethe multi-source domain prior knowledge, enrich the image semantic featurehs*\
 [Paper](https://arxiv.org/pdf/2010.06208.pdf) [Github](https://github.com/emma-sjwang/Dofe)
 
+**LongGlaucVF_20150216**\
+*visual field*\
+[Github](https://github.com/emma-sjwang/Dofe) [Link](http://rod-rep.com - Rotterdam Ophthalmic Data Repository)
+
+
+
+
 
 ### Diabetic Retinopathy
 
@@ -108,6 +115,11 @@ A list of Ophthalmology imaging datasets
 **IDRiD**\
 *diabetic retinopathy lesions and normal retinal structures,disease severity level,international standards of clinical relevance*\
 [Github](https://github.com/WeiQijie/retinal-lesions?tab=readme-ov-file) [Dataset](https://idrid.grand-challenge.org/Data/)
+
+**LongDRScreening_20150209**\
+* fundus image registration method*\
+[Paper](https://iovs.arvojournals.org/article.aspx?articleid=2212963) [Github](https://github.com/nanokebab/SEP_algorithm_for_visual_perimetry) 
+
 
 
 
@@ -201,6 +213,16 @@ A list of Ophthalmology imaging datasets
 *retinal vessel segmentation and vascular tree analysis*\
 [Dataset](https://reta-benchmark.org/)
 
+**UT-FSOCTA**\
+*generative adversarial networks to create vascular maps*\
+[Paper](https://www.nature.com/articles/s41598-023-42062-9) [Dataset](https://zenodo.org/records/6476639)
+
+
+
+
+
+
+
 
 
 
@@ -221,6 +243,14 @@ A list of Ophthalmology imaging datasets
 *Glaucoma Forecast Using the Sequential Fundus Images*\
 [Paper](https://link.springer.com/chapter/10.1007/978-3-030-59722-1_60) [Github](https://github.com/XiaofeiWang2018/DeepGF)
 
+**LongDRScreening_20150209**\
+* fundus image registration method*\
+[Paper](https://iovs.arvojournals.org/article.aspx?articleid=2212963) [Github](https://github.com/nanokebab/SEP_algorithm_for_visual_perimetry) 
+
+
+
+
+
 
 ### Register
 
@@ -235,6 +265,13 @@ A list of Ophthalmology imaging datasets
 **IOSTAR**\
 *retinal vessel segmentation*\
 [Paper](https://ieeexplore.ieee.org/abstract/document/7493241) [Dataset](https://www.idiap.ch/software/bob/docs/bob/bob.db.iostar/stable/)
+
+**LongDRScreening_20150209**\
+* fundus image registration method*\
+[Paper](https://iovs.arvojournals.org/article.aspx?articleid=2212963) [Github](https://github.com/nanokebab/SEP_algorithm_for_visual_perimetry) 
+
+
+
 
 
 ###  OCTA
@@ -302,6 +339,16 @@ A list of Ophthalmology imaging datasets
 
 
 
+
+###  Tools and Models
+
+**datasceyence-master**\
+*Collection of deep learning in ophthalmology projects*\
+[Github](https://github.com/Chrisini/datasceyence)
+
+**LongDRScreening_20150209**\
+* fundus image registration method*\
+[Paper](https://iovs.arvojournals.org/article.aspx?articleid=2212963) [Github](https://github.com/nanokebab/SEP_algorithm_for_visual_perimetry) 
 
 
 
