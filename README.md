@@ -141,7 +141,7 @@ A list of Ophthalmology imaging datasets
 
 
 
-### Segmentation
+### Segmentation and Classification
 
 **Fundus_AV_seg**\
 [2022]
@@ -220,6 +220,10 @@ A list of Ophthalmology imaging datasets
 **Retinal Tortuosity**\
 *retinal vessel tortuosity*\
 [Paper](https://ieeexplore.ieee.org/abstract/document/4359043?casa_token=UkKG9iGVTPYAAAAA:vnt4cXjyVliDw7ADu5V1yjTU2YzkdcatKNmbjAeh4bTrnaKtmwEiJH7Jw4vfgDjyirZOqiC1EL0) [Dataset](https://bioimlab.dei.unipd.it/Retinal%20Vessel%20Tortuosity.htm)
+
+**Open_BUA_AV**\
+*Multi-scale interactive network with artery/vein discriminator for retinal vessel classification*\
+[Github](https://github.com/TwistedW/MIAV)
 
 
 
