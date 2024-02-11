@@ -217,6 +217,10 @@ A list of Ophthalmology imaging datasets
 *generative adversarial networks to create vascular maps*\
 [Paper](https://www.nature.com/articles/s41598-023-42062-9) [Dataset](https://zenodo.org/records/6476639)
 
+**Retinal Tortuosity**\
+*retinal vessel tortuosity*\
+[Paper](https://ieeexplore.ieee.org/abstract/document/4359043?casa_token=UkKG9iGVTPYAAAAA:vnt4cXjyVliDw7ADu5V1yjTU2YzkdcatKNmbjAeh4bTrnaKtmwEiJH7Jw4vfgDjyirZOqiC1EL0) [Dataset](https://bioimlab.dei.unipd.it/Retinal%20Vessel%20Tortuosity.htm)
+
 
 
 
@@ -348,7 +352,12 @@ A list of Ophthalmology imaging datasets
 
 **LongDRScreening_20150209**\
 * fundus image registration method*\
-[Paper](https://iovs.arvojournals.org/article.aspx?articleid=2212963) [Github](https://github.com/nanokebab/SEP_algorithm_for_visual_perimetry) 
+[Paper](https://iovs.arvojournals.org/article.aspx?articleid=2212963) [Github](https://github.com/nanokebab/SEP_algorithm_for_visual_perimetry)
+
+**Retinal Tortuosity**\
+*retinal vessel tortuosity*\
+[Paper](https://ieeexplore.ieee.org/abstract/document/4359043?casa_token=UkKG9iGVTPYAAAAA:vnt4cXjyVliDw7ADu5V1yjTU2YzkdcatKNmbjAeh4bTrnaKtmwEiJH7Jw4vfgDjyirZOqiC1EL0) [Dataset](https://bioimlab.dei.unipd.it/Retinal%20Vessel%20Tortuosity.htm)
+
 
 
 
