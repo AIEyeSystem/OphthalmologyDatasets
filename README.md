@@ -72,7 +72,7 @@ A list of Ophthalmology imaging datasets
 
 **HarvardFairSeg10k**\
 *segmentation*\
-[Paper](https://arxiv.org/abs/2311.02189) [Girhub](https://github.com/Harvard-Ophthalmology-AI-Lab/Harvard-FairSeg/)
+[Paper](https://arxiv.org/abs/2311.02189) [Github](https://github.com/Harvard-Ophthalmology-AI-Lab/Harvard-FairSeg/)
 
 **Harvard-EF30k**\
 *30k images,glaucoma,AMD,DR*\
@@ -196,6 +196,10 @@ A list of Ophthalmology imaging datasets
 **ROSE**\
 *Retinal OCTA SEgmentation*\
 [Paper](https://arxiv.org/abs/2007.05201) [Dataset](https://paperswithcode.com/dataset/rose)
+
+**retinal**\
+*retinal vessel segmentation and vascular tree analysis*\
+[Dataset](https://reta-benchmark.org/)
 
 
 
