@@ -129,7 +129,7 @@ A list of Ophthalmology imaging datasets
 ### Myopia
 
 **CMU_fundus**\
-*Capital Medical University,Beijing*\
+*Capital Medical University, Beijing*\
 
 **Paddle**\
 *iChallenge dataset,Baidu*\
@@ -144,12 +144,10 @@ A list of Ophthalmology imaging datasets
 ### Segmentation and Classification
 
 **Fundus_AV_seg**\
-[2022]
 [Paper](https://arxiv.org/abs/2203.14928) [Dataset](https://ravirdataset.github.io/data/)
 
 **Fundus_AV_WIDE**\
 *This dataset consists of 30 wide-field of color images and their annotated features for artery-vein classification*\
-[2015]
 [Paper](https://pubmed.ncbi.nlm.nih.gov/26068204/) [Dataset](https://people.duke.edu/~sf59/Estrada_TMI_2015_dataset.htm)
 
 **Chase-DB**\
@@ -252,7 +250,7 @@ A list of Ophthalmology imaging datasets
 [Paper](https://link.springer.com/chapter/10.1007/978-3-030-59722-1_60) [Github](https://github.com/XiaofeiWang2018/DeepGF)
 
 **LongDRScreening_20150209**\
-* fundus image registration method*\
+*fundus image registration method*\
 [Paper](https://iovs.arvojournals.org/article.aspx?articleid=2212963) [Github](https://github.com/nanokebab/SEP_algorithm_for_visual_perimetry) 
 
 
@@ -275,7 +273,7 @@ A list of Ophthalmology imaging datasets
 [Paper](https://ieeexplore.ieee.org/abstract/document/7493241) [Dataset](https://www.idiap.ch/software/bob/docs/bob/bob.db.iostar/stable/)
 
 **LongDRScreening_20150209**\
-* fundus image registration method*\
+*fundus image registration method*\
 [Paper](https://iovs.arvojournals.org/article.aspx?articleid=2212963) [Github](https://github.com/nanokebab/SEP_algorithm_for_visual_perimetry) 
 
 
@@ -355,7 +353,7 @@ A list of Ophthalmology imaging datasets
 [Github](https://github.com/Chrisini/datasceyence)
 
 **LongDRScreening_20150209**\
-* fundus image registration method*\
+*fundus image registration method*\
 [Paper](https://iovs.arvojournals.org/article.aspx?articleid=2212963) [Github](https://github.com/nanokebab/SEP_algorithm_for_visual_perimetry)
 
 **Retinal Tortuosity**\
