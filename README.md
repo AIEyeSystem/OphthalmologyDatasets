@@ -66,7 +66,20 @@ A list of Ophthalmology imaging datasets
 
 **iChallenge: AMD/Non_AMD and DF_Annotation(disc_fovea)** \
 *AMD:89, Non-AMD:311, DF:44* \
-[2021][[Link](https://aistudio.baidu.com/aistudio/datasetdetail/88462)]
+[Link](https://aistudio.baidu.com/aistudio/datasetdetail/88462)]
+
+**AMD_RPEDC**\
+*TR,RPEDC volumn,RPEDC abnormal,normal*\
+[Paper](http://www.sciencedirect.com/science/article/pii/S016164201300612X) [Dataset](https://people.duke.edu/~sf59/RPEDC_Ophth_2013_dataset.htm)
+
+**2011_IOVS_Chiu**\
+*segment leision of AMD based on SDOCT*\
+[Paper](https://iovs.arvojournals.org/article.aspx?articleid=2127341) [Dataset](https://people.duke.edu/~sf59/Chiu_IOVS_2011_dataset.htm)
+
+
+
+
+
 
 
 ### Glaucoma
@@ -359,6 +372,15 @@ A list of Ophthalmology imaging datasets
 **ZhangLabData**\
 *chest xray data, plus for optical coherence tomography (OCT) images*\
 [Paper](https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5) [Github](https://github.com/coyotespike/zhanglab-chest-xrays)
+
+**AMD_RPEDC**\
+*TR,RPEDC volumn,RPEDC abnormal,normal*\
+[Paper](http://www.sciencedirect.com/science/article/pii/S016164201300612X) [Dataset](https://people.duke.edu/~sf59/RPEDC_Ophth_2013_dataset.htm)
+
+**2011_IOVS_Chiu**\
+*segment leision of AMD based on SDOCT*\
+[Paper](https://iovs.arvojournals.org/article.aspx?articleid=2127341) [Dataset](https://people.duke.edu/~sf59/Chiu_IOVS_2011_dataset.htm)
+
 
 
 
