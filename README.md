@@ -152,6 +152,10 @@ A list of Ophthalmology imaging datasets
 *pathlogical myopia challenge;*\
 [Homepage](https://palm.grand-challenge.org/) [Dataset](https://ieee-dataport.org/documents/palm-pathologic-myopia-challenge)
 
+**PALM_zhang**\
+*leision mask,PC,Disc,fovea localization*\
+[Paper](https://www.nature.com/articles/s41597-024-02911-2) [Dataset](https://doi.org/10.6084/m9.figshare.c.6224616.v1)
+
 
 
 ### Segmentation and Classification
