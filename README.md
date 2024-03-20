@@ -47,6 +47,10 @@ A list of Ophthalmology imaging datasets
 *Retinal Fundus Multi-Disease Image Dataset (RFMiD): A Dataset for Multi-Disease Detection Research*\
 [Dataset](https://ieee-dataport.org/open-access/retinal-fundus-multi-disease-image-dataset-rfmid)
 
+**IRFUNDUSSET**\
+*fundus image, a dataset that consolidates, harmonizes and curates several public datasets*\
+[Paper](https://arxiv.org/pdf/2402.11488.pdf) [Github](https://github.com/bilha-analytics/IRFundusSet)
+
 
 ###  Corneal
 
