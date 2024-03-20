@@ -173,7 +173,7 @@ A list of Ophthalmology imaging datasets
 
 ### Segmentation and Classification
 
-**Fundus_AV_seg**\
+**RAVIR_AV_seg**\
 [Paper](https://arxiv.org/abs/2203.14928) [Dataset](https://ravirdataset.github.io/data/)
 
 **Fundus_AV_WIDE**\
