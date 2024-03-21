@@ -150,6 +150,10 @@ A list of Ophthalmology imaging datasets
 *fundus image registration method*\
 [Paper](https://iovs.arvojournals.org/article.aspx?articleid=2212963) [Github](https://github.com/nanokebab/SEP_algorithm_for_visual_perimetry) 
 
+**MAPLES-DR**\
+*new diagnoses for DR and ME*\
+[Paper](https://arxiv.org/abs/2402.04258) [Dataset](https://figshare.com/articles/dataset/_b_MAPLES-DR_b_MESSIDOR_Anatomical_and_Pathological_Labels_for_Explainable_Screening_of_Diabetic_Retinopathy/24328660)
+
 
 
 
