@@ -5,7 +5,7 @@ A list of Ophthalmology imaging datasets
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-:fire::fire: This is a collection of awesome articles about diffusion models in medical imaging:fire::fire:
+:fire::fire: This is a collection of awesome articles about Vasculature Quantitative Measurements in Retinal Images:fire::fire:
 
 
 - Our survey paper on arXiv: [Vasculature Quantitative Measurements in Retinal Fundus Images: A Comprehensive Survey](https://arxiv.org/abs/xxx) :heart:
@@ -15,10 +15,10 @@ A list of Ophthalmology imaging datasets
 @article{xxxx,
   title={Vasculature Quantitative Measurements in Retinal Fundus Images: A Comprehensive Survey},
   author={Zhihao Zhao, xxxxxx},
-  journal={Medical Image Analysis},
+  journal={xxx},
   pages={xxx},
   year={xxx},
-  publisher={Elsevier}
+  publisher={xxx}
 }
 ```
 
