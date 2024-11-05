@@ -14,7 +14,7 @@ A list of Ophthalmology imaging datasets
 ```python
 @article{xxxx,
   title={Vasculature Quantitative Measurements in Retinal Fundus Images: A Comprehensive Survey},
-  author={Zhihao Zhao, xxxxxx},
+  author={Zhihao Zhao, Yinzheng Zhao, xxxxxx},
   journal={xxx},
   pages={xxx},
   year={xxx},
@@ -37,7 +37,7 @@ A list of Ophthalmology imaging datasets
 ## Ophthalmology_dataset
 
 
-### Mult_Diseases
+### **Mult_Diseases**
 
 **WebSite**\
 [RetinaBank](https://imagebank.asrs.org/)
