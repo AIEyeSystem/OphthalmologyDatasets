@@ -8,12 +8,12 @@ A list of Ophthalmology imaging datasets
 :fire::fire: This is a collection of awesome articles about Vasculature Quantitative Measurements in Retinal Images:fire::fire:
 
 
-- Our survey paper on arXiv: [Vasculature Quantitative Measurements in Retinal Fundus Images: A Comprehensive Survey](https://arxiv.org/abs/xxx) :heart:
+- Our survey paper on arXiv: [Public Ophthalmology Dataset: A Comprehensive Survey](https://arxiv.org/abs/xxx) :heart:
 
 #### Citation
 ```python
 @article{xxxx,
-  title={Vasculature Quantitative Measurements in Retinal Fundus Images: A Comprehensive Survey},
+  title={Public Ophthalmology Dataset: A Comprehensive Survey},
   author={Zhihao Zhao, Yinzheng Zhao, xxxxxx},
   journal={xxx},
   pages={xxx},
