@@ -5,7 +5,7 @@ A list of Ophthalmology imaging datasets
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-:fire::fire: This is a collection of awesome articles about Vasculature Quantitative Measurements in Retinal Images:fire::fire:
+:fire::fire: This is a collection of awesome public datasets in Ophthalmology :fire::fire:
 
 
 - Our survey paper on arXiv: [Public Ophthalmology Dataset: A Comprehensive Survey](https://arxiv.org/abs/xxx) :heart:
@@ -27,23 +27,22 @@ A list of Ophthalmology imaging datasets
 - **First release:** Coming soon!
 
 ## Contents
-- [Survey Papers](#survey-papers)
-
-- [Papers](#papers)
-  - [Anomaly Detection](#anomaly-detection)
+- [WebSite](#WebSite)
+- [MultModal](#MultModal)
+- [MultDiseases](#MultDiseases)
 
 
 
 ## Ophthalmology_dataset
 
-### **WebSite**  
+## WebSite  
 [RetinaBank](https://imagebank.asrs.org/)  
 [Zenodo](https://zenodo.org/)  
 [Figshare](https://figshare.com/search?q=fundus)  
 [Kaggle](https://www.kaggle.com/search?q=ophthalmology+in%3Adatasets)  
 [MendelyData](https://data.mendeley.com/research-data/?type=DATASET&search=retina)  
 
-### **Mult_Modal**  
+## MultModal 
 **OphNet**  
 *A Large-Scale Video Benchmark for Ophthalmic Surgical Workflow Understanding*  
 [Github](https://github.com/minghu0830/OphNet-benchmark) [Dataset](https://huggingface.co/datasets/xioamiyh/OphNet2024)  
@@ -54,7 +53,7 @@ A list of Ophthalmology imaging datasets
 *Fundus and OCT images in Guangdong Provincial Hospital of Integrated Traditional Chinese and Western Medicine using a Topcon Triton swept-source OCT featuring multimodal fundus imaging.*
 [Github](https://github.com/xmed-lab/FDDM) [Dataset](https://hkustconnect-my.sharepoint.com/personal/lwangdk_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Flwangdk%5Fconnect%5Fust%5Fhk%2FDocuments%2FMultieye%5Fresource%2Ftopconmm%5Fdata%2Ezip&parent=%2Fpersonal%2Flwangdk%5Fconnect%5Fust%5Fhk%2FDocuments%2FMultieye%5Fresource&ga=1)
 
-### **Mult_Diseases**  
+## MultDiseases  
 
 **Fundus_image**\
 *26 files corresponding to 26 lesion types*\
@@ -69,7 +68,7 @@ A list of Ophthalmology imaging datasets
 [Paper](https://arxiv.org/pdf/2402.11488.pdf) [Github](https://github.com/bilha-analytics/IRFundusSet)
 
 
-###  **Corneal**
+## Corneal 
 
 **ConfEndoMicr**\
 *52 in-vivo confocal corneal microscopy images*\
@@ -78,7 +77,7 @@ A list of Ophthalmology imaging datasets
 
 
 
-### AMD
+## AMD
 
 **iChallenge: AMD/Non_AMD and DF_Annotation(disc_fovea)** \
 *AMD:89, Non-AMD:311, DF:44* \
@@ -98,7 +97,7 @@ A list of Ophthalmology imaging datasets
 
 
 
-### Glaucoma
+## Glaucoma
 
 **GRAPE**\
 *VFs,fundus,OCT,clinical information,follow-up records*\
@@ -144,7 +143,7 @@ A list of Ophthalmology imaging datasets
 
 
 
-### Diabetic Retinopathy
+## Diabetic Retinopathy
 
 **DRSeg_TJDR**\
 *High-Quality Diabetic Retinopathy Pixel-Level Annotation Dataset*\
@@ -172,10 +171,8 @@ A list of Ophthalmology imaging datasets
 
 
 
-### Myopia
+## Myopia
 
-**CMU_fundus**\
-*Capital Medical University, Beijing*\
 
 **Paddle**\
 *iChallenge dataset,Baidu*\
@@ -191,7 +188,7 @@ A list of Ophthalmology imaging datasets
 
 
 
-### Segmentation and Classification
+## Segmentation and Classification
 
 **RAVIR_AV_seg**\
 [Paper](https://arxiv.org/abs/2203.14928) [Dataset](https://ravirdataset.github.io/data/)
@@ -306,14 +303,14 @@ A list of Ophthalmology imaging datasets
 
 
 
-###  iOCT
+##  iOCT
 
 **iOCT**\
 *Vitreoretinal Diseases*\
 [Paper](https://pubmed.ncbi.nlm.nih.gov/26265908/)
 
 
-###  Logitudinal
+##  Logitudinal
 
 **OLIVES**\
 *99 eyes' data averaged over a period of at least two years with each eye treated for an average of 66 weeks and 7 injections*\
@@ -332,7 +329,7 @@ A list of Ophthalmology imaging datasets
 
 
 
-### Register
+## Registration
 
 **FIRE**\
 *fundus images*\
@@ -354,7 +351,7 @@ A list of Ophthalmology imaging datasets
 
 
 
-###  OCTA
+##  OCTA
 
 **OCTA-500**\
 *retinal imaging modality that allows a micron-level resolution to present the three-dimensional structure of the retinal vascular*\
@@ -369,7 +366,7 @@ A list of Ophthalmology imaging datasets
 [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4073651) [Github](https://github.com/shanzha09/COIPS)
 
 
-###  OCT
+##  OCT
 
 **archive**\
 *heiderlberg_OCT,Rabbani_2015,spie_OCT*\
@@ -429,7 +426,7 @@ A list of Ophthalmology imaging datasets
 
 
 
-###  Tools and Models
+##  Tools and Models
 
 **datasceyence-master**\
 *Collection of deep learning in ophthalmology projects*\
