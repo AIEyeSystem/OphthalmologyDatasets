@@ -43,16 +43,16 @@ A list of Ophthalmology imaging datasets
 [MendelyData](https://data.mendeley.com/research-data/?type=DATASET&search=retina)  
 
 ## MultModal 
-**OphNet**   
-*A Large-Scale Video Benchmark for Ophthalmic Surgical Workflow Understanding*\  
+**OphNet**\
+*A Large-Scale Video Benchmark for Ophthalmic Surgical Workflow Understanding*\
 [Github](https://github.com/minghu0830/OphNet-benchmark) [Dataset](https://huggingface.co/datasets/xioamiyh/OphNet2024) 
 
-**MM-Retinal**  
-*A multi-modal dataset that encompasses high-quality image-text pairs collected from professional fundus diagram books.*\ 
+**MM-Retinal**\
+*A multi-modal dataset that encompasses high-quality image-text pairs collected from professional fundus diagram books.*\
 [Github](https://github.com/lxirich/MM-Retinal) [Dataset](https://drive.google.com/drive/folders/177RCtDeA6n99gWqgBS_Sw3WT6qYbzVmy) 
 
-**FDDM TOPCON-MM**  
-*Fundus and OCT images in Guangdong Provincial Hospital of Integrated Traditional Chinese and Western Medicine using a Topcon Triton swept-source OCT featuring multimodal fundus imaging.*\ 
+**FDDM TOPCON-MM**
+*Fundus and OCT images in Guangdong Provincial Hospital of Integrated Traditional Chinese and Western Medicine using a Topcon Triton swept-source OCT featuring multimodal fundus imaging.*\
 [Github](https://github.com/xmed-lab/FDDM) [Dataset](https://hkustconnect-my.sharepoint.com/personal/lwangdk_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Flwangdk%5Fconnect%5Fust%5Fhk%2FDocuments%2FMultieye%5Fresource%2Ftopconmm%5Fdata%2Ezip&parent=%2Fpersonal%2Flwangdk%5Fconnect%5Fust%5Fhk%2FDocuments%2FMultieye%5Fresource&ga=1) 
 
 ## MultDiseases  
