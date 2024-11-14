@@ -349,6 +349,10 @@ A list of Ophthalmology imaging datasets
 *fundus image registration method*\
 [Paper](https://iovs.arvojournals.org/article.aspx?articleid=2212963) [Github](https://github.com/nanokebab/SEP_algorithm_for_visual_perimetry) 
 
+**FIMD**\
+*fundus image myopia control points pairs(70)*\
+[Dataset](https://ieee-dataport.org/documents/fundus-image-myopia-development-fimd-dataset)
+
 
 
 
