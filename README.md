@@ -42,7 +42,7 @@ A list of Ophthalmology imaging datasets
 [Kaggle](https://www.kaggle.com/search?q=ophthalmology+in%3Adatasets)  
 [MendelyData](https://data.mendeley.com/research-data/?type=DATASET&search=retina)  
 
-## MultModal 
+## Multimodal 
 **OphNet**\
 *A Large-Scale Video Benchmark for Ophthalmic Surgical Workflow Understanding*\
 [Github](https://github.com/minghu0830/OphNet-benchmark) [Dataset](https://huggingface.co/datasets/xioamiyh/OphNet2024) 
@@ -50,6 +50,18 @@ A list of Ophthalmology imaging datasets
 **MM-Retinal**\
 *A multi-modal dataset that encompasses high-quality image-text pairs collected from professional fundus diagram books.*\
 [Github](https://github.com/lxirich/MM-Retinal) [Dataset](https://drive.google.com/drive/folders/177RCtDeA6n99gWqgBS_Sw3WT6qYbzVmy) 
+
+**MM-Retinal-Reasoning**\
+*A multi-modal dataset that encompasses high-quality image-text pairs collected from professional fundus diagram books.*\
+[Paper](https://arxiv.org/abs/2508.16129) [Github](https://github.com/lxirich/OphthaReason) [Dataset](https://huggingface.co/datasets/lxirich/MM-Retinal-Reason) 
+
+**OphIn-500K**\
+*Web-scale video VQA dataset for ophthalmic AI*\
+[Paper](https://arxiv.org/abs/2605.27916)
+
+**PubMed-Ophtha**\
+*High-quality vision-language dataset extracted from PubMed Central articles*\
+[Paper](https://arxiv.org/abs/2605.02720)
 
 **FDDM TOPCON-MM**
 *Fundus and OCT images in Guangdong Provincial Hospital of Integrated Traditional Chinese and Western Medicine using a Topcon Triton swept-source OCT featuring multimodal fundus imaging.*\
@@ -76,6 +88,21 @@ A list of Ophthalmology imaging datasets
 *52 in-vivo confocal corneal microscopy images*\
 [Paper](https://bmcmedimaging.biomedcentral.com/articles/10.1186/s12880-015-0054-3) [Dataset](http://www.rodrep.com/confocal-corneal-endothelial-microscopy---description.html)
 
+### Surgery
+
+**Cataract-1K**\
+[Paper](https://www.nature.com/articles/s41597-024-03193-4) [Github](https://github.com/Negin-Ghamsarian/Cataract-1K)
+
+**Cataract-LMM**\
+[Paper](https://www.nature.com/articles/s41597-026-07464-0) [Github](https://github.com/MJAHMADEE/Cataract-LMM) [Dataset](https://huggingface.co/datasets/mjahmadi/Cataract-LMM)
+
+**Cataract-101**\
+[Paper](https://dl.acm.org/doi/10.1145/3204949.3208137) [Dataset](https://ftp.itec.aau.at/datasets/ovid/cat-101/)
+
+**MIGS(Glaucoma Surgery)**\
+[Paper](https://www.nature.com/articles/s41597-026-07535-2) [Dataset](https://zenodo.org/records/19438128)
+
+
 
 
 
@@ -92,6 +119,12 @@ A list of Ophthalmology imaging datasets
 **2011_IOVS_Chiu**\
 *segment leision of AMD based on SDOCT*\
 [Paper](https://iovs.arvojournals.org/article.aspx?articleid=2127341) [Dataset](https://people.duke.edu/~sf59/Chiu_IOVS_2011_dataset.htm)
+
+**AMD and DME 3D Segmentation**\
+[Paper](https://www.nature.com/articles/s41597-025-06497-1#Sec5)
+
+**RVO-ME-Xiong**\
+[Paper](https://www.nature.com/articles/s41597-026-06695-5)
 
 
 
@@ -292,9 +325,12 @@ A list of Ophthalmology imaging datasets
 *ganglion cell segmentation*\
 [Paper](https://opg.optica.org/optica/fulltext.cfm?uri=optica-8-5-642&id=450700) [Dataset](https://people.duke.edu/~sf59/Soltanian_Optica_2021.htm)
 
-**SNP_Segmentation**\
-*Segmentation of Neuronal Structures in Corneal Confocal Microscopy Images*\
-[Paper](https://journals.lww.com/corneajrnl/abstract/2023/10000/open_source_automated_segmentation_of_neuronal.19.aspx) [Dataset](https://people.duke.edu/~sf59/Zemborain_SNP_Net.htm)
+**S-OCT**\
+*Surgical Optical Coherence Tomography*\
+[Paper](https://pubmed.ncbi.nlm.nih.gov/31423421)
+
+**AV-Seg-Deng**\
+[Paper](https://www.nature.com/articles/s41597-025-05381-2#Sec7)
 
 
 
@@ -427,6 +463,12 @@ A list of Ophthalmology imaging datasets
 **2011_IOVS_Chiu**\
 *segment leision of AMD based on SDOCT*\
 [Paper](https://iovs.arvojournals.org/article.aspx?articleid=2127341) [Dataset](https://people.duke.edu/~sf59/Chiu_IOVS_2011_dataset.htm)
+
+**AMD and DME 3D Segmentation**\
+[Paper](https://www.nature.com/articles/s41597-025-06497-1#Sec5)
+
+**RVO-ME-Xiong**\
+[Paper](https://www.nature.com/articles/s41597-026-06695-5)
 
 
 
