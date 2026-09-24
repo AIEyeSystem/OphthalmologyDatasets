@@ -1,0 +1,236 @@
+# Ophthalmology Dataset Tagging Standard
+
+This document defines the standardized tagging schema used in the
+OphthalmologyDatasets repository.
+
+A dataset may have multiple values under each tag dimension.
+Whenever possible, existing terms should be reused instead of creating
+new synonymous tags.
+
+---
+
+## 1. Modality
+
+Describes how the ophthalmic data were acquired.
+
+- Fundus Photography
+- Ultra-Widefield Fundus (UWF)
+- OCT
+- OCTA
+- Fluorescein Angiography (FA)
+- Fundus Autofluorescence (FAF)
+- Slit-Lamp Photography
+- Corneal Microscopy
+- Surgical Microscopy
+- Ultrasound
+- Visual Field / Perimetry
+- Other
+
+Example:
+
+Modality: Fundus Photography, OCT
+
+---
+
+## 2. Anatomy
+
+Describes the anatomical structure or region represented in the dataset.
+
+- Retina
+- Retinal Vessel
+- Macula / Fovea
+- Optic Disc / Cup
+- Choroid
+- Cornea
+- Iris
+- Lens
+- Anterior Chamber
+- Vitreous
+- Optic Nerve
+- Multiple
+- Other
+
+Example:
+
+Anatomy: Retina, Optic Disc / Cup
+
+---
+
+## 3. Disease / Condition
+
+Describes the disease or clinical condition represented in the dataset.
+
+- Healthy / Normal
+- Glaucoma
+- Diabetic Retinopathy
+- Diabetic Macular Edema
+- Age-related Macular Degeneration (AMD)
+- Cataract
+- Myopia
+- Pathologic Myopia
+- Retinal Detachment
+- Keratoconus
+- Corneal Disease
+- Other Retinal Disease
+- Multi-disease
+- Other
+
+Example:
+
+Disease / Condition: Glaucoma
+
+---
+
+## 4. Task
+
+Describes the research or machine-learning tasks supported by the dataset.
+
+- Classification
+- Disease Detection
+- Grading
+- Segmentation
+- Object Detection
+- Localization
+- Registration
+- Tracking
+- Image Quality Assessment
+- Progression Prediction
+- Treatment Response Prediction
+- Image Generation
+- Retrieval
+- Visual Question Answering (VQA)
+- Report / Text Generation
+- Surgical Phase Recognition
+- Other
+
+Example:
+
+Task: Classification, Segmentation
+
+---
+
+## 5. Data Type
+
+Describes the computational form of the provided data.
+
+- 2D Image
+- 3D Volume
+- Video
+- Visual Field
+- Text
+- Tabular / Clinical Data
+- Other
+
+Example:
+
+Data Type: 2D Image, Tabular / Clinical Data
+
+---
+
+## 6. Annotation Type
+
+Describes the type of ground-truth annotation provided by the dataset.
+
+- Class Label
+- Diagnosis
+- Grade
+- Pixel Mask
+- Voxel Mask
+- Bounding Box
+- Landmark / Keypoint
+- Temporal Label
+- Registration Pair / Correspondence
+- Clinical Measurement
+- Report / Text
+- Other
+
+Example:
+
+Annotation Type: Diagnosis, Pixel Mask
+
+---
+
+## 7. Data Structure
+
+Describes how samples or modalities within the dataset are organized.
+
+- Cross-sectional
+- Longitudinal
+- Paired
+- Multi-view
+- Multimodal
+- Temporal Sequence
+- Other
+
+Example:
+
+Data Structure: Longitudinal, Multimodal
+
+---
+
+## 8. Clinical Setting
+
+Describes the clinical context in which the data were acquired or intended
+to be used.
+
+- Screening
+- Diagnosis
+- Treatment
+- Follow-up
+- Surgery
+- Research / General
+- Other
+
+Example:
+
+Clinical Setting: Screening
+
+---
+
+# Dataset Metadata
+
+The following fields describe dataset metadata and should not be treated
+as classification tags.
+
+- Dataset Name
+- Full Name
+- Year
+- Dataset Size
+- Number of Patients
+- Number of Eyes
+- Country / Region
+- Institution
+- Access
+- License
+- Dataset URL
+- Paper
+- Code
+
+## Access
+
+Use one of the following standardized access labels:
+
+- Open
+- Registration Required
+- Request Required
+- Challenge / Competition Access
+- Restricted
+- Unavailable
+- Unknown
+
+---
+
+# Tagging Principles
+
+1. Multiple tags are allowed within each dimension.
+
+2. Use the standardized vocabulary whenever possible.
+
+3. Do not create synonymous tags.
+   For example, use "Fundus Photography" instead of separately using
+   "Fundus", "Fundus Image", and "Color Fundus Image".
+
+4. Use the full disease name rather than abbreviations in metadata.
+   For example:
+   - Diabetic Retinopathy instead of DR
+   - Age-related Macular Degeneration instead of AMD
