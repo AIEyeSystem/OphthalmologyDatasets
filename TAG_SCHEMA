@@ -1,21 +1,31 @@
 # Ophthalmology Dataset Tagging Standard
 
+
 This document defines the standardized tagging schema used in the
 OphthalmologyDatasets repository.
 
+The goal of this schema is to describe ophthalmology datasets using
+multiple independent dimensions instead of assigning each dataset to
+only one category.
+
 A dataset may have multiple values under each tag dimension.
-Whenever possible, existing terms should be reused instead of creating
-new synonymous tags.
+Whenever possible, existing standardized terms should be reused instead
+of creating synonymous tags.
 
 ---
+
+# Tag Dimensions
 
 ## 1. Modality
 
 Describes how the ophthalmic data were acquired.
 
+### Controlled Vocabulary
+
 - Fundus Photography
 - Ultra-Widefield Fundus (UWF)
 - OCT
+- Anterior Segment OCT (AS-OCT)
 - OCTA
 - Fluorescein Angiography (FA)
 - Fundus Autofluorescence (FAF)
@@ -26,15 +36,12 @@ Describes how the ophthalmic data were acquired.
 - Visual Field / Perimetry
 - Other
 
-Example:
-
-Modality: Fundus Photography, OCT
-
----
 
 ## 2. Anatomy
 
 Describes the anatomical structure or region represented in the dataset.
+
+### Controlled Vocabulary
 
 - Retina
 - Retinal Vessel
@@ -42,23 +49,24 @@ Describes the anatomical structure or region represented in the dataset.
 - Optic Disc / Cup
 - Choroid
 - Cornea
+- Conjunctiva
 - Iris
+- Pupil
 - Lens
 - Anterior Chamber
+- Anterior Segment
 - Vitreous
 - Optic Nerve
 - Multiple
 - Other
 
-Example:
 
-Anatomy: Retina, Optic Disc / Cup
-
----
 
 ## 3. Disease / Condition
 
 Describes the disease or clinical condition represented in the dataset.
+
+### Controlled Vocabulary
 
 - Healthy / Normal
 - Glaucoma
@@ -70,20 +78,20 @@ Describes the disease or clinical condition represented in the dataset.
 - Pathologic Myopia
 - Retinal Detachment
 - Keratoconus
+- Keratitis
 - Corneal Disease
 - Other Retinal Disease
 - Multi-disease
 - Other
 
-Example:
 
-Disease / Condition: Glaucoma
-
----
 
 ## 4. Task
 
-Describes the research or machine-learning tasks supported by the dataset.
+Describes the research or machine-learning tasks explicitly supported
+by the dataset or benchmark.
+
+### Controlled Vocabulary
 
 - Classification
 - Disease Detection
@@ -93,9 +101,13 @@ Describes the research or machine-learning tasks supported by the dataset.
 - Localization
 - Registration
 - Tracking
+- Temporal Localization
 - Image Quality Assessment
 - Progression Prediction
 - Treatment Response Prediction
+- Biomarker Detection
+- Irregularity Detection
+- 3D Reconstruction
 - Image Generation
 - Retrieval
 - Visual Question Answering (VQA)
@@ -103,15 +115,13 @@ Describes the research or machine-learning tasks supported by the dataset.
 - Surgical Phase Recognition
 - Other
 
-Example:
 
-Task: Classification, Segmentation
-
----
 
 ## 5. Data Type
 
 Describes the computational form of the provided data.
+
+### Controlled Vocabulary
 
 - 2D Image
 - 3D Volume
@@ -121,38 +131,39 @@ Describes the computational form of the provided data.
 - Tabular / Clinical Data
 - Other
 
-Example:
 
-Data Type: 2D Image, Tabular / Clinical Data
-
----
 
 ## 6. Annotation Type
 
 Describes the type of ground-truth annotation provided by the dataset.
 
+### Controlled Vocabulary
+
 - Class Label
 - Diagnosis
 - Grade
+- Multi-label Attribute
+- Progression Label
 - Pixel Mask
 - Voxel Mask
 - Bounding Box
 - Landmark / Keypoint
 - Temporal Label
+- Temporal Boundary
 - Registration Pair / Correspondence
+- Point Correspondence
 - Clinical Measurement
 - Report / Text
 - Other
 
-Example:
 
-Annotation Type: Diagnosis, Pixel Mask
-
----
 
 ## 7. Data Structure
 
-Describes how samples or modalities within the dataset are organized.
+Describes how samples, observations, or modalities within the dataset
+are organized.
+
+### Controlled Vocabulary
 
 - Cross-sectional
 - Longitudinal
@@ -162,16 +173,15 @@ Describes how samples or modalities within the dataset are organized.
 - Temporal Sequence
 - Other
 
-Example:
 
-Data Structure: Longitudinal, Multimodal
 
----
 
 ## 8. Clinical Setting
 
-Describes the clinical context in which the data were acquired or intended
-to be used.
+Describes the clinical context in which the data were acquired or
+intended to be used.
+
+### Controlled Vocabulary
 
 - Screening
 - Diagnosis
@@ -181,11 +191,7 @@ to be used.
 - Research / General
 - Other
 
-Example:
 
-Clinical Setting: Screening
-
----
 
 # Dataset Metadata
 
@@ -206,6 +212,8 @@ as classification tags.
 - Paper
 - Code
 
+---
+
 ## Access
 
 Use one of the following standardized access labels:
@@ -220,17 +228,62 @@ Use one of the following standardized access labels:
 
 ---
 
-# Tagging Principles
 
-1. Multiple tags are allowed within each dimension.
 
-2. Use the standardized vocabulary whenever possible.
+# Example Dataset Entry
 
-3. Do not create synonymous tags.
-   For example, use "Fundus Photography" instead of separately using
-   "Fundus", "Fundus Image", and "Color Fundus Image".
+## Example
 
-4. Use the full disease name rather than abbreviations in metadata.
-   For example:
-   - Diabetic Retinopathy instead of DR
-   - Age-related Macular Degeneration instead of AMD
+**Dataset Name:** Example Ophthalmology Dataset
+
+**Modality:**
+- Fundus Photography
+- OCT
+
+**Anatomy:**
+- Retina
+- Optic Disc / Cup
+
+**Disease / Condition:**
+- Glaucoma
+
+**Task:**
+- Classification
+- Segmentation
+
+**Data Type:**
+- 2D Image
+- 3D Volume
+- Tabular / Clinical Data
+
+**Annotation Type:**
+- Diagnosis
+- Pixel Mask
+- Clinical Measurement
+
+**Data Structure:**
+- Multimodal
+- Longitudinal
+
+**Clinical Setting:**
+- Diagnosis
+- Follow-up
+
+### Metadata
+
+**Year:** 2026  
+**Dataset Size:** Not specified  
+**Number of Patients:** Not specified  
+**Number of Eyes:** Not specified  
+**Country / Region:** Not specified  
+**Institution:** Not specified  
+**Access:** Unknown  
+**License:** Unknown  
+
+**Dataset:** [Dataset Link]  
+**Paper:** [Paper Link]  
+**Code:** [Code Link]
+
+---
+
+
