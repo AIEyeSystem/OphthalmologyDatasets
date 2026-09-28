@@ -1,0 +1,44 @@
+name: Generate Dataset Browse Pages
+
+on:
+  push:
+    branches:
+      - OphthalmologyDataUpdate
+    paths:
+      - "datasets.csv"
+      - "scripts/generate_pages.py"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-pages:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Generate browse pages
+        run: python scripts/generate_pages.py
+
+      - name: Commit generated pages
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add browse/
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Auto-generate dataset browse pages"
+            git push
+          fi
