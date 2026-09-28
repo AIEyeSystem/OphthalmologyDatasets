@@ -1,2 +1,2 @@
 Dataset,Full Name,Year,Modality,Anatomy,Disease / Condition,Task,Data Type,Annotation Type,Data Structure,Clinical Setting,Size,Patients / Eyes,Access,Dataset URL,Paper,Code
-PAPILA,PAPILA: Dataset with fundus images and clinical data,2022,Fundus Photography,Optic Disc / Cup,Glaucoma,Classification; Segmentation,2D Image,Diagnosis; Pixel Mask,Multi-view,Diagnosis,488 fundus images,244 patients,Open,,, 
+PAPILA,PAPILA: Dataset with fundus images and clinical data,2022,Fundus Photography,Optic Disc / Cup,Glaucoma,Classification; Segmentation,2D Image,Diagnosis; Pixel Mask,Multi-view,Diagnosis,488 fundus images,244 patients,pen,,, 
