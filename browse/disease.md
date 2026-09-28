@@ -4,6 +4,6 @@ Browse ophthalmology datasets by disease or clinical condition.
 
 ## Glaucoma
 
-| Dataset | Modality | Task |
-|---|---|---|
-| [PAPILA](../datasets/PAPILA.md) | Fundus Photography | Classification; Segmentation |
+| Dataset | Modality | Task | Access |
+|---|---|---|---|
+| PAPILA | Fundus Photography | Classification; Segmentation | pen |
